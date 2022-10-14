@@ -1,7 +1,13 @@
+import client1 from "../image/about.jpg"
+import client2 from "../image/about.jpg"
+import client3 from "../image/about.jpg"
+import client4 from "../image/about.jpg"
+import client5 from "../image/about.jpg"
+
 const TestimonialApi = [
   {
     id: 1,
-    image: "./image/about.jpg",
+    image: client1,
     design: "NCD - DESIGN",
     name: "Mevine Thoda",
     offcer: "Marketing Officer",
@@ -11,7 +17,7 @@ const TestimonialApi = [
   },
   {
     id: 2,
-    image: "./image/about.jpg",
+    image: client2,
     design: "Default name",
     name: "Davei Luace",
     offcer: "Chief Operating Manager",
@@ -21,7 +27,7 @@ const TestimonialApi = [
   },
   {
     id: 3,
-    image: "./image/about.jpg",
+    image: client3,
     design: "Rainbow-Themes",
     name: "Nevine Acotanza",
     offcer: "Chief Operating Officer",
@@ -31,7 +37,7 @@ const TestimonialApi = [
   },
   {
     id: 4,
-    image: "./image/about.jpg",
+    image: client4,
     design: "Bound - Trolola",
     name: "Jone Duone Joe",
     offcer: "Operating Officer",
@@ -41,7 +47,7 @@ const TestimonialApi = [
   },
   {
     id: 5,
-    image: "./image/about.jpg",
+    image: client5,
     design: "Glassfisom",
     name: "Nevine Dhawan",
     offcer: "CEO Of Officer",

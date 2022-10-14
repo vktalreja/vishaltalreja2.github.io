@@ -1,7 +1,10 @@
+import work1 from "../image/work1.jpg"
+import work2 from "../image/work2.jpg"
+import work3 from "../image/work3.jpg"
 const BlogApi = [
   {
     id: 1,
-    image: "./image/work1.jpg",
+    image: work1,
     date: "2 May, 2021",
     title_one: "Digital Marketo to Their New Office.",
     desc_one: "Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.",
@@ -12,7 +15,7 @@ const BlogApi = [
   },
   {
     id: 2,
-    image: "./image/work2.jpg",
+    image: work2,
     date: "28 April, 2021",
     title_one: "The services provide for design ",
     desc_one: "Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.",
@@ -23,7 +26,7 @@ const BlogApi = [
   },
   {
     id: 3,
-    image: "./image/work2.jpg",
+    image: work3,
     date: "20 Jun, 2021",
     title_one: "Mobile app landing design & app maintain.",
     desc_one: "Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.",

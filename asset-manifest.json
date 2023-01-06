@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/vishaltalreja2.github.io/static/css/main.9ba5df7d.css",
-    "main.js": "/vishaltalreja2.github.io/static/js/main.9f62d2a5.js",
+    "main.css": "/vishaltalreja2.github.io/static/css/main.4c084c04.css",
+    "main.js": "/vishaltalreja2.github.io/static/js/main.19fa50b0.js",
     "static/js/787.128fc6e9.chunk.js": "/vishaltalreja2.github.io/static/js/787.128fc6e9.chunk.js",
     "static/media/hero.png": "/vishaltalreja2.github.io/static/media/hero.caa3d5e2872e84d77cf2.png",
+    "static/media/vishal.jpg": "/vishaltalreja2.github.io/static/media/vishal.1b5b3db4bef52b13ca97.jpg",
     "static/media/contact1.png": "/vishaltalreja2.github.io/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/about.jpg": "/vishaltalreja2.github.io/static/media/about.6df261e61e2a9fb88ff6.jpg",
+    "static/media/work1.jpg": "/vishaltalreja2.github.io/static/media/work1.56b07f922b35521bc967.jpg",
+    "static/media/work5.jpg": "/vishaltalreja2.github.io/static/media/work5.ec6bc32106648527919e.jpg",
+    "static/media/work2.jpg": "/vishaltalreja2.github.io/static/media/work2.8ce2dcfde849319b6f92.jpg",
+    "static/media/work3.jpg": "/vishaltalreja2.github.io/static/media/work3.0ae9596bb00d9773ce17.jpg",
+    "static/media/work4.jpg": "/vishaltalreja2.github.io/static/media/work4.9ec37c245302266e99f9.jpg",
+    "static/media/work6.jpg": "/vishaltalreja2.github.io/static/media/work6.71c746fa8c4fac84069c.jpg",
     "index.html": "/vishaltalreja2.github.io/index.html",
-    "main.9ba5df7d.css.map": "/vishaltalreja2.github.io/static/css/main.9ba5df7d.css.map",
-    "main.9f62d2a5.js.map": "/vishaltalreja2.github.io/static/js/main.9f62d2a5.js.map",
+    "main.4c084c04.css.map": "/vishaltalreja2.github.io/static/css/main.4c084c04.css.map",
+    "main.19fa50b0.js.map": "/vishaltalreja2.github.io/static/js/main.19fa50b0.js.map",
     "787.128fc6e9.chunk.js.map": "/vishaltalreja2.github.io/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ba5df7d.css",
-    "static/js/main.9f62d2a5.js"
+    "static/css/main.4c084c04.css",
+    "static/js/main.19fa50b0.js"
   ]
 }
